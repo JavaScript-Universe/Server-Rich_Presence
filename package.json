@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/JavaScript-Universe/Server-Rich_Presence#readme",
   "dependencies": {
-    "discord-rpc": "^3.2.0"
+    "discord-rpc": "^4.0.1"
   }
 }
